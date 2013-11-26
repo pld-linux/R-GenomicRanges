@@ -2,12 +2,12 @@
 
 Summary:	Representation and manipulation of genomic intervals
 Name:		R-%{packname}
-Version:	1.12.2
+Version:	1.14.3
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Math
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	6f749fc0aa1f439e959311d555b0e1aa
+# Source0-md5:	c5831b8b65363c18edaafcf9426d455e
 URL:		http://www.bioconductor.org/packages/release/bioc/html/GenomicRanges.html
 BuildRequires:	R
 BuildRequires:	R-BiocGenerics
